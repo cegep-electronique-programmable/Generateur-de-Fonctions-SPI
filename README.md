@@ -15,7 +15,7 @@ L'objectif de ce laboratoire est de développer un circuit de générateur de fo
 
 # Séquence de développement
 
-- [ ] Compiler le projet de départ et s'assurer qu'il n'y a aucune erreur
+- [x] Compiler le projet de départ et s'assurer qu'il n'y a aucune erreur
 
 
 
