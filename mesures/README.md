@@ -1,0 +1,1 @@
+Stockez les mesures dans ce répertoire. Si vous avez plusieurs mesures, gardez ce répertoire organisé.
